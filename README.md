@@ -70,3 +70,4 @@ snose off                   # stop recording
 ---
 
 MIT · [starnose.dev](https://starnose.dev)
+MCP Server](https://volspan.dev/api/badge/stripe)](https://volspan.dev/servers/stripe)
