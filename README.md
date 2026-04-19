@@ -70,4 +70,4 @@ snose off                   # stop recording
 ---
 
 MIT · [starnose.dev](https://starnose.dev)
-[![MCP Server](https://volspan.dev/api/badge/eitanlebras-starnose?v=3)](https://volspan.dev/servers/eitanlebras-starnose)
+[![MCP Server](https://volspan.dev/api/badge/eitanlebras-starnose?v=4)](https://volspan.dev/servers/eitanlebras-starnose)
